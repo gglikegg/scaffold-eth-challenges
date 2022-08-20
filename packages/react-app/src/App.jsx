@@ -1,4 +1,4 @@
-Import WalletConnectProvider from "@walletconnect/web3-provider";
+import WalletConnectProvider from "@walletconnect/web3-provider";
 //import Torus from "@toruslabs/torus-embed"
 import WalletLink from "walletlink";
 import { Alert, Button, Col, Menu, Row, List, Divider } from "antd";
